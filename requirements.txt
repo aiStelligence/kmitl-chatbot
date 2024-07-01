@@ -1,0 +1,12 @@
+langchain
+langchain-community
+langchain-core
+langchain-openai
+langsmith
+openai
+pandas
+PyPDF2
+faiss-cpu
+tiktoken
+python-dotenv
+streamlit
